@@ -24,7 +24,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="jailson.sjr.ct@gmail.com" target="_blank">
+  <a href="mailto:jailson.sjr.ct@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="23" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/jai.lsonjr/" target="_blank">
